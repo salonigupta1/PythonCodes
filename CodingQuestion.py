@@ -1,3 +1,4 @@
+#Code to find maximum energy
 def dist (n,k,d,m,a):
 	s=[]
 	t = a
